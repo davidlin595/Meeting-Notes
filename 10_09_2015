@@ -1,8 +1,27 @@
 Meeting 10/9/2015 (Kickoff)
 
-Notes:
+Note:
+    - Meeting location: we will find a room at HTC for our meetings in the future
+    - Task assignments: we will decide after we have learned more about the system.
+    - Quadcopter competition goal: score based on total number if successfully passing gates and total time to complete entire course for this years's competition
+    - How automatic the quadcopter will fly: will decide that after we learn more
+    - Design strategies: ideas on types of sensors to use, how to make quadcopter flying by itself, potential solutions for anti-jamming and anti-take-over-control
+    - Invite various expertise to join us as Harris highly recommend it: not to be concerned now
 
 To do:
-
+    - Schedule a mutual convient time to visit HTC lab to learn more about available resources and systems
+    - Exchange each other's conatct information
+    - Collect all of our questiuons to send to Harris recarding to quadcopter design
+    
 Follow up:
-
+    - Source control suggestions: Github, Trello, Google Drive
+    - Personal contact:
+    - Q & A:
+        . Does Harris have any lab rules and restricitions at HTC lab?
+        . Does Harris have the information about the location of sw and hw at HTC lab?
+        . Which sw/hw do we have to go to HTC lab to use and which we can sign out and work at our own places?
+        . What do we do with the sw we develop at HTC lab? Are we allowed to upload and store them to portabl devices or internet?
+        . What are sw/hw all competition teams to be shared and what not?
+        . Can Harris give any finical support to cover our personal expense for this project?
+        . Can we ask Harris for granting us a wish list?
+    - Schedule a time for HTC lab visit
