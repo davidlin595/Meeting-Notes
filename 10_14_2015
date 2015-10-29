@@ -1,1 +1,12 @@
-
+Lab Overview Notes:
+    - It was more or less an informal introduction
+    - More clarifications of what we will be doing.
+    - Big picture of the current quadcopter system: Human pilot control a BBB and WiFi connected to PC, PC connected to USRP, USRP WiFi connected to AR Drone.
+    - AR Drone has a serial port to take AT commands from external devices.
+    - The outside bumper is allowed to attach sensors or drill holes.
+    - Harris can help us get sensors or hardware if they are TI solutions.
+    - New slides about USRP traning can be found at SharePoint: https://share.harris.com/sites/QDC/Shared%20Documents/USRP Training2015Aug20.pptx
+    - HTC lab 5-320 has no special rules on how to use it. The hour is open. We are allowed to go there to set up our own bench.
+    - Most software needed are already installed at two of the PC in the lab and ready to use.
+    - HW in the lab are allowed to be signed out. Contact person is David Chester if we may have questions. We will be given some BBB for our own team.
+    - Any sw we develop in the lab are free to be fransferred out of the local machine in the lab.
