@@ -1,1 +1,24 @@
-
+Notes:
+    - Human pilot: using mobile phone AR Drone app to directly control quadcopter to fly through the entire course
+    - Auto pilot:
+    - Auto target: not for this year since human pilot to fly the quadcopter
+    - Image process: not for this year since human pilot to fly the quadcopter
+    - Battery power:
+      . consider using cell phone batteries and should be good enough for flying through 100x600 feet course
+      . battery connection: use voltage booster
+    - Harris highly recommends items or things:
+      . Computer simulation: we may do several ones(Simscape blockset, Control communiocation, Navigation algorithm)
+      . Expertise in all area: not need all of them since first year not focusing at Mechanical, 3D design, signal process and communication, control system, propagation, HMI software
+      . Enhancements: Custom rotors to enhance maneuvering and pattern recognition
+    - Source control suggestions:
+      . Github: source control
+      . Trello: project management
+      
+To do:
+    - Items to sign out HTC lab 5-320: 2xBBB
+    - Wish list:
+      . Ultrasound sensors
+      . Infrared sensors
+      . Compass sensors
+      . voltage level shifter
+      . Voltage regulators for 1.8v for the voltage shifter
