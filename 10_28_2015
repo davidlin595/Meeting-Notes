@@ -1,1 +1,23 @@
+Notes:
+    - Quadcopter serial port:
+        . serport configuration: 115200, n, 8, 1
+        . quadcopter serial port physical connections to BBB
+            1. ATDI: serial to usb, usb to PC
+            2. level shifter: bridge ATDI and AR Drone serial port
+    - Wireless communication:
+        . mobile phone AR Drone app recognizes only AR Drone and exchanges messages only with AR Drone
+        . Build our own WiFi remote controller to communicate BBB on AR Drone
+    - Autopilot algorithm and control sw:
+        . Wait for Harris's reply about the supply of sensors and hardware
+    - Programming language: Python
+    - Signing out:
+        . Quadcopter x 1
+        . BBB x 2
+        . WiFi usb x 1
 
+To Do:
+    - Task assignment # 1: serial port software and AT commands (Michael, Andrew)
+    - Task assignment # 2: serial port on AR Drone and BBB hardware interface (Aaron)
+    - Task assignment # 3: WiFi interface on remote controller and BBB (David)
+    - Michael to send out trello invitation (project management sw)
+    - Team set up Github repositiories to share sw and documents and centralize the management of resources
