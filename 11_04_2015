@@ -1,0 +1,20 @@
+Meeting Notes:
+- Quadcopter serial port AT command:
+  . successfully made hardware connection between PC USB port and AR Drone serial port
+  . successfully ran PC serial console to display AR Drone output messages
+  . observed complaining messages of "unknown message" at serial console when entrying AT commands
+- BBB power down:
+  . press power button before removing power cable or USB cable
+  . consider updating with the latest firmware image
+- Return Aaron's BBB and replace another
+- Status of air link between BBB and remote controller: able to send simple messages from remote controller to BBB over air
+- 3-D print for the dimensions of basket on AR Drone: 3.5'x4'x2', considering including BBB, battery, and GPIO wires
+- Human pilot candidate: Levy Zachary, initial test fly able to stably control AR Drone and move it around with AR Drone mobile ap
+- Quick talk to the other team and learn their understanding on fully auto pilot for the entire course for the first year.
+
+To Do:
+- Need more research on how to correctly send AT commands to the quadcopter serial port
+- Continue team's current assigned tasks
+- Joystick hardware: need one
+- Need to find out real full size of gates on the test fly course and set them up for human pilot practising
+- Need clarifications if human pilot will be allowed for the first year's deaign challenge
